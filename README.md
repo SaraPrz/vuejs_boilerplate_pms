@@ -4,7 +4,7 @@ its a very simpe template(SFC) for developing vue js
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development
-### Prerequisites
+### Prerequirements
 you should have nodejs on your system
 ### Installing
 ```
@@ -32,4 +32,3 @@ npm run start
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
-vue single file component
